@@ -2,7 +2,7 @@
 - 💻 Frontend developer at
     - [HODOOLABS](https://hodooschool.com/) (2023.06 ~ current)
     - [TECHLABS](https://www.techlabs.co.kr/) (2022.09 ~ 2023.6) 
-- 🏫 PUSAN National University (~ 2021.02)
+- 🏫 PUSAN National University (2016.03 ~ 2021.02)
 - 📫 chosohi20@gmail.com
 - 📝 [blog](https://velog.io/@huisso/posts)
 <br />
