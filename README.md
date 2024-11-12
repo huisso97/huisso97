@@ -1,7 +1,8 @@
 ## Sohui Choi  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuisso97&count_bg=%233ED8BB&title_bg=%2328191F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 - 💻 Frontend developer at
-    - [HODOOLABS](https://hodooschool.com/) (2023.06 ~ current)
-    - [TECHLABS](https://www.techlabs.co.kr/) (2022.09 ~ 2023.6) 
+    - [Travel Wallet](https://www.travel-wallet.com/) (2024.10 ~ current)
+    - [HodooLabs](https://hodooschool.com/) (2023.06 ~ 2024.10)
+    - [TechLabs](https://www.techlabs.co.kr/) (2022.09 ~ 2023.6) 
 - 🏫 PUSAN National University (2016.03 ~ 2021.02)
 - 📫 chosohi20@gmail.com
 - 📝 [blog](https://velog.io/@huisso/posts)
