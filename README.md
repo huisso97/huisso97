@@ -1,4 +1,4 @@
-## Sohui Choi  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhuisso97&count_bg=%233ED8BB&title_bg=%2328191F&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Sohui Choi  
 - 💻 Frontend developer at
     - [Travel Wallet](https://www.travel-wallet.com/) (2024.10 ~ current)
     - [HodooLabs](https://hodooschool.com/) (2023.06 ~ 2024.10)
