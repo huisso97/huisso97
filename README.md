@@ -31,7 +31,7 @@
 
 - [Samsung SW Academy for Youth(SSAFY)](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) (6th Graduate, 2021.07 ~ 2022.06)
 - [Frontend Tech Book Club](https://github.com/FE-TechBook-Study) (Operator, 2024.02 ~ current)
-- [Geultto(글또)](https://geultto.github.io/) (10th, 2024.10 ~ current)
+- [Geultto(글또)](https://geultto.github.io/) (10th, 2024.10 ~ 2025.04)
 
 
 </br>
