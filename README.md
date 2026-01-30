@@ -27,7 +27,7 @@ Frontend engineer building **streaming Agent Chat / Workflow UIs** with **Next.j
 
 #### Worxphere (ex-JobKorea) — Agent / Chat Product
 - **Agent Runtime Integration (Streaming Chat / Workflow UI)**
-  - Integrated an **SSE-based conversational runtime** into the UI and mapped async events into consistent **messages / widgets / thread state**
+  - Led the **end-to-end integration of an SSE-based agent runtime into the UI**, defining the event-to-UI mapping model (**messages/widgets/thread state**)
   - Modeled **turn-based grouping** to keep regeneration/deletion UX consistent and predictable
   - Implemented **progress event upsert/merge** so intermediate updates never overwrite the final assistant output
   - Designed robust control flows for **cancel / retry / error handling**, with observability hooks for production monitoring
