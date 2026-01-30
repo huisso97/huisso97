@@ -1,6 +1,7 @@
 ## Sohui Choi 
 
-Frontend engineer building **streaming Agent Chat / Workflow UIs** with **Next.js + TypeScript** — focused on **runtime event modeling**, **schema-driven data layers**, and **operational stability**.
+Frontend engineer building **streaming Agent Chat / Workflow UIs** with **Next.js + TypeScript** — specializing in **event-driven runtime modeling**, **shared adapter layers**, and **production-grade reliability**.
+
 
 - 💻 Frontend Engineer at
   - [Worxphere (ex-JobKorea)](https://www.worxphere.ai/) (2025.11 ~ current)
@@ -26,11 +27,11 @@ Frontend engineer building **streaming Agent Chat / Workflow UIs** with **Next.j
 ### Selected Work (Highlights)
 
 #### Worxphere (ex-JobKorea) — Agent / Chat Product
-- **Agent Runtime Integration (Streaming Chat / Workflow UI)**
-  - Led the **end-to-end integration of an SSE-based agent runtime into the UI**, defining the event-to-UI mapping model (**messages/widgets/thread state**)
-  - Modeled **turn-based grouping** to keep regeneration/deletion UX consistent and predictable
-  - Implemented **progress event upsert/merge** so intermediate updates never overwrite the final assistant output
-  - Designed robust control flows for **cancel / retry / error handling**, with observability hooks for production monitoring
+- **Shared Agent Runtime Adapter (Talent Agent & Career Agent)**
+  - Designed and owned a **shared adapter layer** used by both Talent Agent and Career Agent, enabling each product to implement features primarily in the **service layer** without duplicating runtime integration logic.
+  - Led the end-to-end integration of an **SSE-based agent runtime** into the UI, mapping async events into deterministic **messages / widgets / thread state**.
+  - Defined and drove adoption of **event & turn modeling conventions** (event ordering, turn grouping, progress merging) to keep regeneration/deletion UX consistent.
+  - Designed production-grade **cancel / retry / error recovery** flows with observability hooks for stable operation.
 
 #### Travel Wallet — B2B Admin / Realtime Messaging
 - **Ad Platform Admin (Campaign → Ad Group → Creative)**
