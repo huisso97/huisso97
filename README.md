@@ -52,4 +52,8 @@ AI Agent, 광고 플랫폼, 실시간 채팅, 화상 수업 등 다양한 제품
 
 **State & Data:** TanStack Query, Zustand, Firestore, IndexedDB
 
-**Integration:** SSE, WebRTC, WebView, Auth.js, Okta
+**Realtime:** SSE, WebRTC, Agora, Sendbird
+
+**Auth:** Auth.js, Okta SSO
+
+**Infra & Tooling:** S3, CloudFront, Sentry, Monorepo, npm
