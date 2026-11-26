@@ -6,7 +6,7 @@ AI Agent, 광고 플랫폼, 실시간 채팅, 화상 수업 등 다양한 제품
 
 문제의 원인을 파고들어 해결하는 것을 좋아합니다. 복잡한 상태와 데이터 흐름을 설계하고, 여러 서비스에서 반복되는 문제를 공통 구조나 개발 도구로 풀어내는 데 관심이 많습니다.
 
-- Frontend Engineer @ [Worxphere](https://www.worxphere.ai/) (2025.11 ~ Present)
+- Frontend Engineer @ [Worxphere(ex-JobKorea)](https://www.worxphere.ai/) (2025.11 ~ Present)
 - Previously @ [Travel Wallet](https://www.travel-wallet.com/), [HodooLabs](https://hodooschool.com/), [TechLabs](https://www.techlabs.co.kr/)
 - [Blog](https://velog.io/@huisso/posts) 
 - Email: chosohi20@gmail.com
